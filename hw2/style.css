@@ -31,6 +31,11 @@ body
     img{
         width: 50%;
     }
+}
+@media (min-width:1024px) {
+    img{
+        width:40%;
+    }
     body
 {
     background-image:url('https://www.wsgsoft.com/pld/images/big/07.jpg');
