@@ -1,0 +1,38 @@
+
+h1{
+    background-color:green;  
+}
+.high{
+
+    color:red;  
+}
+.weight{
+
+    color:white;  
+}
+.birthday{
+
+    color:red;  
+}
+.birthday{
+
+    color:pink;  
+}
+ 
+h1:hover{
+
+    color:orange; /*當滑鼠滑過會變色*/
+}
+body
+{
+    background-image:url('https://img.zcool.cn/community/015b1456cd26db32f875520f3f7a84.jpg@1280w_1l_2o_100sh.jpg');
+}
+@media (min-width:700px) {
+    img{
+        width: 50%;
+    }
+    body
+{
+    background-image:url('https://www.wsgsoft.com/pld/images/big/07.jpg');
+}
+}
